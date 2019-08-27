@@ -1,5 +1,7 @@
 # Todo App
 
+[![Build Status](https://travis-ci.org/luckysoo3516/spring-boot-todo.svg?branch=master)](https://travis-ci.org/luckysoo3516/spring-boot-todo)
+
 ## Build Docker image
 
 ```bash
